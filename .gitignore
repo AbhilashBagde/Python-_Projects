@@ -1,0 +1,11 @@
+# Ignore data files
+*.csv
+*.html
+*.png
+
+# Ignore Python cache & venv
+__pycache__/
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
